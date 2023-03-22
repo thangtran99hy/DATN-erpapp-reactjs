@@ -1,4 +1,4 @@
-Để cài đặt các package yêu cầu :
+To install packages :
 ### `yarn install` hoặc `npm install`
-Để chạy ứng dụng web :
+To run app :
 ### `yarn start` hoặc `npm start`
